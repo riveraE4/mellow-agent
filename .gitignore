@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+.next/
+
+# Editor
+.swp
+*.swp
+.DS_Store
+
+# Playwright
+playwright-report/
+test-results/
